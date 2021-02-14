@@ -11,7 +11,7 @@
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🤔 I use daily ```.php```,``` .javascript```, ```.sql```
 - 🌱 I’m currently learning Laravel and Vue
-- ⚡ Fun fact: Je connais un peu le français
+- ⚡ Fun fact: talking to myself while programming is essential
 
 <p align="center">
 <img src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg" alt="php"/>
