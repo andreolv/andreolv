@@ -15,7 +15,7 @@
 
 <p align="center">
 <!-- <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-plain.svg" alt="php" width="55" height="55"/>  -->
-<img src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg" alt="php"/>
+<img src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg" alt="php" width="55" height="55"/>
       
 <!-- <img src="https://devicons.github.io/devicon/devicon.git/icons/laravel/laravel-plain.svg" alt="laravel" width="55" height="55"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="55" height="55"/> 
