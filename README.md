@@ -14,16 +14,11 @@
 - ⚡ Fun fact: Je connais un peu le français
 
 <p align="center">
-<!-- <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-plain.svg" alt="php" width="55" height="55"/>  -->
-<img src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg" alt="php" width="55" height="55"/>
-      
-<!-- <img src="https://devicons.github.io/devicon/devicon.git/icons/laravel/laravel-plain.svg" alt="laravel" width="55" height="55"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="55" height="55"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="55" height="55"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="55" height="55"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" alt="git" width="55" height="55"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/google/google-original.svg" alt="google" width="55" height="55"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/jquery/jquery-original.svg" alt="jquery" width="55" height="55"/> -->
+<img src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg" alt="php"/>
+<img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel"/>
+<img src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg" alt="javascript"/> 
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git"/>
+<img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="google"/>
 </p>
 
 
